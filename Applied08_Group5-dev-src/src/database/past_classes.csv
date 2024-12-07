@@ -1,0 +1,6 @@
+MemberEmail,ClassID,AttendanceStatus
+member@student.monash.edu,101,Attended
+member@student.monash.edu,102,Cancelled by the member
+member@student.monash.edu,101,Attended
+member@student.monash.edu,103,Cancelled by the admin
+member@student.monash.edu,103,Attended

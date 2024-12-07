@@ -1,0 +1,4 @@
+ClassID,ClassName,Description,InstructorEmail,DateTime,Duration,Occurrence,CreditPoints,StudioID,Capacity,Category,DifficultyLevel
+1,Yoga Basics,This is a class,alice.yoga@example.com,01/10/2024 09:00:00,90,Weekly,10,1,20,Yoga,Easy
+2,Running Session,This is a class,bob.hiit@example.com,01/10/2024 11:00:00,60,Special,20,2,30,Cardio,Hard
+3,Pilates Advanced,This is a class,charlie.pilates@example.com,01/10/2024 14:00:00,90,Weekly,15,3,15,Pilates,Medium
